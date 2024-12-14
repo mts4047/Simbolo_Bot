@@ -1,0 +1,5 @@
+streamlit
+python-dotenv
+opencv-python
+langchain
+groq  # Include all necessary dependencies
